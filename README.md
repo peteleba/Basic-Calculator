@@ -22,9 +22,6 @@ A simple calculator application built with Python and Streamlit. This calculator
 How to Use
 Select an operation, input two numbers, and press Calculate to see the result.
 
-Demo
-Check out the live app here: Live Calculator
-
 License
 MIT License
 
